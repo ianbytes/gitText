@@ -1,3 +1,13 @@
 This is a new file to play around with merging
 
 Adding more content to this file
+
+adding another change to this file
+
+making a change to this branch.  I think I understand what is happenning
+If Git is able to do linear path, will do fast forward merge
+
+however, if impossible to do linear commit will do merge instead
+
+
+Going to repeat this test again
